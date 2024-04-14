@@ -1,4 +1,4 @@
-package com.set1;
+package com;
 
 public class FindLargestAndSecondLargestElementInArray {
 
